@@ -13,7 +13,7 @@
         {
             "id": "1",
             "name": "Apple",
-            "category": 2,
+            "categoryId": 2,
             "listId": 1,
             "photo": "https://via.placeholder.com/200x200.png?text=Ringa",
             "quantity": "2",
@@ -22,7 +22,7 @@
         {
             "id": "2",
             "name": "Banana",
-            "category": 2,
+            "categoryId": 2,
             "listId": 1,
             "photo": "https://via.placeholder.com/300x300.png?text=Ringa",
             "quantity": "1",
@@ -31,7 +31,7 @@
         {
             "id": "3",
             "name": "Kiwi",
-            "category": 2,
+            "categoryId": 2,
             "listId": 1,
             "photo": "https://via.placeholder.com/125x125.png?text=Ringa",
             "quantity": "6",
@@ -40,7 +40,7 @@
         {
             "id": "4",
             "name": "Orange",
-            "category": 2,
+            "categoryId": 2,
             "listId": 1,
             "photo": "https://via.placeholder.com/300x200.png?text=Ringa",
             "quantity": "5",
@@ -49,7 +49,7 @@
         {
             "id": "5",
             "name": "Lettuce",
-            "category": 1,
+            "categoryId": 1,
             "listId": 1,
             "photo": "https://via.placeholder.com/728x210.png?text=Ringa",
             "quantity": "2",
@@ -58,7 +58,7 @@
         {
             "id": "6",
             "name": "Broccoli",
-            "category": 1,
+            "categoryId": 1,
             "listId": 1,
             "photo": "https://via.placeholder.com/400x300.png?text=Ringa",
             "quantity": "0",
@@ -67,7 +67,7 @@
         {
             "id": "7",
             "name": "Mango",
-            "category": 2,
+            "categoryId": 2,
             "listId": 1,
             "photo": "https://via.placeholder.com/150x200.png?text=Ringa",
             "quantity": "2",
@@ -76,7 +76,7 @@
         {
             "id": "8",
             "name": "Cucumber",
-            "category": 1,
+            "categoryId": 1,
             "listId": 1,
             "photo": "https://via.placeholder.com/500x200.png?text=Ringa",
             "quantity": "4",
@@ -85,7 +85,7 @@
         {
             "id": "9",
             "name": "Bread",
-            "category": 4,
+            "categoryId": 4,
             "listId": 2,
             "photo": "https://via.placeholder.com/800x600.png?text=Ringa",
             "quantity": "2",
@@ -94,7 +94,7 @@
         {
             "id": "10",
             "name": "Skinless chicken",
-            "category": 3,
+            "categoryId": 3,
             "listId": 2,
             "photo": "https://via.placeholder.com/350x200.png?text=Ringa",
             "quantity": "5",
@@ -103,7 +103,7 @@
         {
             "id": "11",
             "name": "Barbecue",
-            "category": 5,
+            "categoryId": 5,
             "listId": 2,
             "photo": "https://via.placeholder.com/350x350.png?text=Ringa",
             "quantity": "4",
@@ -112,7 +112,7 @@
         {
             "id": "12",
             "name": "Pasta",
-            "category": 4,
+            "categoryId": 4,
             "listId": 2,
             "photo": "https://via.placeholder.com/350x200.png?text=Ringa",
             "quantity": "2",
@@ -121,7 +121,7 @@
         {
             "id": "13",
             "name": "Tuna",
-            "category": 3,
+            "categoryId": 3,
             "listId": 2,
             "photo": "https://via.placeholder.com/350x350.png?text=Ringa",
             "quantity": "3",
