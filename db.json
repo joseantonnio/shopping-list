@@ -14,7 +14,7 @@
             "id": "1",
             "name": "Apple",
             "category": 2,
-            "list": 1,
+            "listId": 1,
             "photo": "https://via.placeholder.com/350x200.png?text=Ringa",
             "quantity": "2",
             "updated_at": "2019-08-29 19:43:06Z"
@@ -23,7 +23,7 @@
             "id": "2",
             "name": "Banana",
             "category": 2,
-            "list": 1,
+            "listId": 1,
             "photo": "https://via.placeholder.com/350x200.png?text=Ringa",
             "quantity": "1",
             "updated_at": "2019-01-29 01:04:16Z"
@@ -32,7 +32,7 @@
             "id": "3",
             "name": "Kiwi",
             "category": 2,
-            "list": 1,
+            "listId": 1,
             "photo": "https://via.placeholder.com/350x200.png?text=Ringa",
             "quantity": "6",
             "updated_at": "2019-10-29 18:50:29Z"
@@ -41,7 +41,7 @@
             "id": "4",
             "name": "Orange",
             "category": 2,
-            "list": 1,
+            "listId": 1,
             "photo": "https://via.placeholder.com/350x200.png?text=Ringa",
             "quantity": "5",
             "updated_at": "2019-01-01 08:29:43Z"
@@ -50,7 +50,7 @@
             "id": "5",
             "name": "Lettuce",
             "category": 1,
-            "list": 1,
+            "listId": 1,
             "photo": "https://via.placeholder.com/350x200.png?text=Ringa",
             "quantity": "2",
             "updated_at": "2019-10-21 09:50:36Z"
@@ -59,7 +59,7 @@
             "id": "6",
             "name": "Broccoli",
             "category": 1,
-            "list": 1,
+            "listId": 1,
             "photo": "https://via.placeholder.com/350x200.png?text=Ringa",
             "quantity": "0",
             "updated_at": "2019-04-30 11:06:00Z"
@@ -68,7 +68,7 @@
             "id": "7",
             "name": "Mango",
             "category": 2,
-            "list": 1,
+            "listId": 1,
             "photo": "https://via.placeholder.com/350x200.png?text=Ringa",
             "quantity": "2",
             "updated_at": "2019-11-13 14:27:38Z"
@@ -77,7 +77,7 @@
             "id": "8",
             "name": "Cucumber",
             "category": 1,
-            "list": 1,
+            "listId": 1,
             "photo": "https://via.placeholder.com/350x200.png?text=Ringa",
             "quantity": "4",
             "updated_at": "2019-12-03 07:30:08Z"
@@ -86,7 +86,7 @@
             "id": "9",
             "name": "Bread",
             "category": 4,
-            "list": 2,
+            "listId": 2,
             "photo": "https://via.placeholder.com/350x200.png?text=Ringa",
             "quantity": "2",
             "updated_at": "2019-08-29 19:43:06Z"
@@ -95,7 +95,7 @@
             "id": "10",
             "name": "Skinless chicken",
             "category": 3,
-            "list": 2,
+            "listId": 2,
             "photo": "https://via.placeholder.com/350x200.png?text=Ringa",
             "quantity": "5",
             "updated_at": "2019-01-29 01:04:16Z"
@@ -104,7 +104,7 @@
             "id": "11",
             "name": "Barbecue",
             "category": 5,
-            "list": 2,
+            "listId": 2,
             "photo": "https://via.placeholder.com/350x200.png?text=Ringa",
             "quantity": "4",
             "updated_at": "7996-10-29 18:50:29Z"
@@ -113,7 +113,7 @@
             "id": "12",
             "name": "Pasta",
             "category": 4,
-            "list": 2,
+            "listId": 2,
             "photo": "https://via.placeholder.com/350x200.png?text=Ringa",
             "quantity": "2",
             "updated_at": "2478-01-01 08:29:43Z"
@@ -122,7 +122,7 @@
             "id": "13",
             "name": "Tuna",
             "category": 3,
-            "list": 2,
+            "listId": 2,
             "photo": "https://via.placeholder.com/350x200.png?text=Ringa",
             "quantity": "3",
             "updated_at": "6775-10-21 09:50:36Z"
