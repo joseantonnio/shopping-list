@@ -13,7 +13,7 @@
         {
             "id": 1,
             "name": "Apple",
-            "categoryId": 2,
+            "categoryId": null,
             "listId": 1,
             "photo": "https://via.placeholder.com/200x200.png?text=Ringa",
             "quantity": 2,
@@ -24,7 +24,7 @@
             "name": "Banana",
             "categoryId": 2,
             "listId": 1,
-            "photo": "https://via.placeholder.com/300x300.png?text=Ringa",
+            "photo": null,
             "quantity": 1,
             "updated_at": "2019-01-29 01:04:16Z"
         },
@@ -49,7 +49,7 @@
         {
             "id": 5,
             "name": "Lettuce",
-            "categoryId": 1,
+            "categoryId": null,
             "listId": 1,
             "photo": "https://via.placeholder.com/728x210.png?text=Ringa",
             "quantity": 2,
@@ -105,7 +105,7 @@
             "name": "Barbecue",
             "categoryId": 5,
             "listId": 2,
-            "photo": "https://via.placeholder.com/350x350.png?text=Ringa",
+            "photo": null,
             "quantity": 4,
             "updated_at": "2019-10-29 18:50:29Z"
         },
