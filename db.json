@@ -11,121 +11,121 @@
     ],
     "items": [
         {
-            "id": "1",
+            "id": 1,
             "name": "Apple",
             "categoryId": 2,
             "listId": 1,
             "photo": "https://via.placeholder.com/200x200.png?text=Ringa",
-            "quantity": "2",
+            "quantity": 2,
             "updated_at": "2019-08-29 19:43:06Z"
         },
         {
-            "id": "2",
+            "id": 2,
             "name": "Banana",
             "categoryId": 2,
             "listId": 1,
             "photo": "https://via.placeholder.com/300x300.png?text=Ringa",
-            "quantity": "1",
+            "quantity": 1,
             "updated_at": "2019-01-29 01:04:16Z"
         },
         {
-            "id": "3",
+            "id": 3,
             "name": "Kiwi",
             "categoryId": 2,
             "listId": 1,
             "photo": "https://via.placeholder.com/125x125.png?text=Ringa",
-            "quantity": "6",
+            "quantity": 6,
             "updated_at": "2019-10-29 18:50:29Z"
         },
         {
-            "id": "4",
+            "id": 4,
             "name": "Orange",
             "categoryId": 2,
             "listId": 1,
             "photo": "https://via.placeholder.com/300x200.png?text=Ringa",
-            "quantity": "5",
+            "quantity": 5,
             "updated_at": "2019-01-01 08:29:43Z"
         },
         {
-            "id": "5",
+            "id": 5,
             "name": "Lettuce",
             "categoryId": 1,
             "listId": 1,
             "photo": "https://via.placeholder.com/728x210.png?text=Ringa",
-            "quantity": "2",
+            "quantity": 2,
             "updated_at": "2019-10-21 09:50:36Z"
         },
         {
-            "id": "6",
+            "id": 6,
             "name": "Broccoli",
             "categoryId": 1,
             "listId": 1,
             "photo": "https://via.placeholder.com/400x300.png?text=Ringa",
-            "quantity": "0",
+            "quantity": 0,
             "updated_at": "2019-04-30 11:06:00Z"
         },
         {
-            "id": "7",
+            "id": 7,
             "name": "Mango",
             "categoryId": 2,
             "listId": 1,
             "photo": "https://via.placeholder.com/150x200.png?text=Ringa",
-            "quantity": "2",
+            "quantity": 2,
             "updated_at": "2019-11-13 14:27:38Z"
         },
         {
-            "id": "8",
+            "id": 8,
             "name": "Cucumber",
             "categoryId": 1,
             "listId": 1,
             "photo": "https://via.placeholder.com/500x200.png?text=Ringa",
-            "quantity": "4",
+            "quantity": 4,
             "updated_at": "2019-12-03 07:30:08Z"
         },
         {
-            "id": "9",
+            "id": 9,
             "name": "Bread",
             "categoryId": 4,
             "listId": 2,
             "photo": "https://via.placeholder.com/800x600.png?text=Ringa",
-            "quantity": "2",
+            "quantity": 2,
             "updated_at": "2019-08-29 19:43:06Z"
         },
         {
-            "id": "10",
+            "id": 10,
             "name": "Skinless chicken",
             "categoryId": 3,
             "listId": 2,
             "photo": "https://via.placeholder.com/350x200.png?text=Ringa",
-            "quantity": "5",
+            "quantity": 5,
             "updated_at": "2019-01-29 01:04:16Z"
         },
         {
-            "id": "11",
+            "id": 11,
             "name": "Barbecue",
             "categoryId": 5,
             "listId": 2,
             "photo": "https://via.placeholder.com/350x350.png?text=Ringa",
-            "quantity": "4",
-            "updated_at": "7996-10-29 18:50:29Z"
+            "quantity": 4,
+            "updated_at": "2019-10-29 18:50:29Z"
         },
         {
-            "id": "12",
+            "id": 12,
             "name": "Pasta",
             "categoryId": 4,
             "listId": 2,
             "photo": "https://via.placeholder.com/350x200.png?text=Ringa",
-            "quantity": "2",
-            "updated_at": "2478-01-01 08:29:43Z"
+            "quantity": 2,
+            "updated_at": "2019-01-01 08:29:43Z"
         },
         {
-            "id": "13",
+            "id": 13,
             "name": "Tuna",
             "categoryId": 3,
             "listId": 2,
             "photo": "https://via.placeholder.com/350x350.png?text=Ringa",
-            "quantity": "3",
-            "updated_at": "6775-10-21 09:50:36Z"
+            "quantity": 3,
+            "updated_at": "2019-10-21 09:50:36Z"
         }
     ],
     "categories": [
@@ -152,77 +152,77 @@
     ],
     "stores": [
         {
-            "id": "1",
+            "id": 1,
             "name": "Whole Foods",
             "address": "Coal Wharf  Grove, 3552",
             "city": "Las Vegas",
             "state": "Rhode Island"
         },
         {
-            "id": "2",
+            "id": 2,
             "name": "Target",
             "address": "Tiptree   Crossroad, 7756",
             "city": "Tulsa",
             "state": "Mississippi"
         },
         {
-            "id": "3",
+            "id": 3,
             "name": "Carib Brewery",
             "address": "Lexington Vale, 7012",
             "city": "Bucharest",
             "state": "Oklahoma"
         },
         {
-            "id": "4",
+            "id": 4,
             "name": "McDonald's",
             "address": "Longman   Grove, 5867",
             "city": "Cincinnati",
             "state": "Arkansas"
         },
         {
-            "id": "5",
+            "id": 5,
             "name": "Walmart",
             "address": "Carltoun   Route, 3419",
             "city": "Columbus",
             "state": "New York"
         },
         {
-            "id": "6",
+            "id": 6,
             "name": "Lavazza",
             "address": "Betton  Rue, 22",
             "city": "Tallahassee",
             "state": "Wyoming"
         },
         {
-            "id": "7",
+            "id": 7,
             "name": "Bewley's",
             "address": "Rivervalley Avenue, 8034",
             "city": "San Diego",
             "state": "Louisiana"
         },
         {
-            "id": "8",
+            "id": 8,
             "name": "Lavazza",
             "address": "Tilson  Crossroad, 2456",
             "city": "Berlin",
             "state": "California"
         },
         {
-            "id": "9",
+            "id": 9,
             "name": "M&M Food Market",
             "address": "Wager   Rue, 4979",
             "city": "Houston",
             "state": "Mississippi"
         },
         {
-            "id": "10",
+            "id": 10,
             "name": "Trader Joe's",
             "address": "Sherlock   Grove, 3806",
             "city": "Arlington",
             "state": "Oklahoma"
         },
         {
-            "id": "11",
+            "id": 11,
             "name": "Sun-Pat",
             "address": "Tiptree   Vale, 3835",
             "city": "Springfield",
